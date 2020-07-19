@@ -1,0 +1,27 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Resume that contains my experience, my personal projects, my education, online taken courses and the tools ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danntastico/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "node",
+    "javascript",
+    "frontend",
+    "development",
+    "job"
+  ],
+  "author": "danntastico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danntastico/resume/issues"
+  },
+  "homepage": "https://github.com/Danntastico/resume#readme"
+}
